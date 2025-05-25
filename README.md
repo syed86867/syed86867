@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am **Syed Ashir Ali** — a **Software Engineer**, **Full-Stack Web Developer**, and **Mobile App Enthusiast**.
+I am **Syed Ashir Ali** — a **Software Engineer** and **Full-Stack Web Developer**.
 
 I specialize in building responsive and scalable web applications using modern tools and technologies.
 
