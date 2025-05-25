@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I am **Syed Ashir Ali**, a passionate **Software Engineer** skilled in building responsive and efficient web and mobile applications.
+I am **Syed Ashir Ali** — a **Software Engineer**, **Full-Stack Web Developer**, and **Mobile App Enthusiast**.
 
-## ⚡ Technologies
+I specialize in building responsive and scalable web applications using modern tools and technologies.
+
+## ⚡ Technologies I Work With
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -15,7 +17,9 @@ I am **Syed Ashir Ali**, a passionate **Software Engineer** skilled in building 
 
 ---
 
-Feel free to connect with me on:
+## 📫 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:ashir9706@gmail.com)
+[![Gmail](https://img.shields.io/badge/-ashir9706@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:ashir9706@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/syed-ashir-ali-74373a30a)
+
+---
