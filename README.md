@@ -25,6 +25,6 @@ I specialize in building responsive and scalable web applications using modern t
 ## 📫 Get in Touch
 
 [![Gmail](https://img.shields.io/badge/-ashir9706@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:ashir9706@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/syedashiralidevp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedashiralidevp/)
 
 ---
