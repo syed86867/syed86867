@@ -1,30 +1,47 @@
-### Hi there 👋
+### Hi there 👋, I'm Syed Ashir Ali
 
-I am **Syed Ashir Ali** — a **Software Engineer** and **Full-Stack Web Developer**.
+#### 🚀 Electron.js & React Engineer | Desktop Architecture Specialist
 
-I specialize in building responsive and scalable web applications using modern tools and technologies.
+I am a software engineer focused on bridging the gap between web and native performance. I specialize in building **Offline-First Desktop Applications** and **Scalable SaaS Platforms**. My expertise lies in handling complex **Main/Renderer processes**, **IPC security**, and **local database synchronization** (SQLite/PostgreSQL).
 
-## ⚡ Technologies I Work With
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Ollama](https://img.shields.io/badge/-Ollama-FFA500?style=flat-square&logo=ollama&logoColor=white)
-![Llama3](https://img.shields.io/badge/-Llama3-FF6B00?style=flat-square&logo=meta&logoColor=white)
-![StarCoder](https://img.shields.io/badge/-StarCoder-8A2BE2?style=flat-square&logo=starcoder&logoColor=white)
-![OOP](https://img.shields.io/badge/-OOP-3776AB?style=flat-square&logo=oop&logoColor=white)
+Currently architecting secure, high-performance desktop solutions that handle real-time data sync.
 
 ---
 
-## 📫 Get in Touch
+### 🛠️ The Arsenal (Tech Stack)
 
-[![Gmail](https://img.shields.io/badge/-ashir9706@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:ashir9706@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedashiralidevp/)
+**Core & Desktop:**
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**State & Data Management:**
+![Redux Toolkit](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+**AI & Innovations:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-orange?style=for-the-badge)
+![RAG](https://img.shields.io/badge/AI-RAG_Systems-blue?style=for-the-badge)
 
 ---
+
+### ⚡ What I'm Focusing On
+* Optimizing **IPC Latency** in large-scale Electron apps.
+* Implementing **Secure WebSockets (WSS)** for encrypted real-time chat.
+* Exploring **Rust** bindings for Node.js to boost performance.
+
+---
+
+### 📊 GitHub Stats
+![Ashir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=tokyonight&hide_border=true)
+
+---
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/syedashiralidevp/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-c14438?style=for-the-badge&logo=gmail)](mailto:syedashir.ali@hotmail.com)
