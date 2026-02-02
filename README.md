@@ -36,11 +36,6 @@ Currently architecting secure, high-performance desktop solutions that handle re
 
 ---
 
-### 📊 GitHub Stats
-![Ashir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/syedashiralidevp/)
